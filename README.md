@@ -6,5 +6,5 @@ each dice once it lands at rest in a box. The user has
 6 rolls in total. The behaviour of GameObjects in
 each scene was programmed using C#
 
-
+# APP SCREENSHOT
 ![VeloxDice](https://user-images.githubusercontent.com/100425157/193066906-7968af68-9dd3-414d-9dff-dd936b0d07ea.png)
