@@ -8,3 +8,6 @@ each scene was programmed using C#
 
 # APP SCREENSHOT
 ![VeloxDice](https://user-images.githubusercontent.com/100425157/193066906-7968af68-9dd3-414d-9dff-dd936b0d07ea.png)
+
+## Link to APK File
+https://drive.google.com/file/d/1IVheHfikgZiyIF4rF76lMLMmP58NmTFN/view?usp=drivesdk
